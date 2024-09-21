@@ -47,6 +47,6 @@ Blog preview card
 
 ## Author
 
-- LinkedIn - [Add your name here](https://www.linkedin.com/in/shaylavwalker)
+- LinkedIn - [Shayla Walker](https://www.linkedin.com/in/shaylavwalker)
 - Frontend Mentor - [@shaywalker5](https://www.frontendmentor.io/profile/shaywalker5)
 
